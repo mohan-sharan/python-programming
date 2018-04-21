@@ -1,4 +1,4 @@
-#init - is the constructor method for a class. It is called called whenever an object of the class is constructed.
+#init - is the constructor method for a class. It is called whenever an object of the class is constructed.
 
 class Animal:
     def __init__(self, name):
