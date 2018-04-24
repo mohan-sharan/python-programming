@@ -51,7 +51,6 @@ Swampert
 Lugia
 '''
 
-
 #To print all the Pokemon after deleting the first Pokemon
 #pokemonSix = Pokemon("Mew")
 #pokemonSix.displayPokemon()
