@@ -32,8 +32,7 @@ class Pokemon:
     @staticmethod
     def displayPokemon():
         for pokemon in Pokemon.myPokemonCollection:
-            print(pokemon.name, end='')
-            print("")
+            print(pokemon.name, end='  ')
 
 pokemonOne = Pokemon("Blastoise")
 pokemonTwo = Pokemon("Typhlosion")
@@ -44,11 +43,7 @@ pokemonFive.displayPokemon()
 
 '''
 OUTPUT:
-Blastoise
-Typhlosion
-Blaziken
-Swampert
-Lugia
+Blastoise  Typhlosion  Blaziken  Swampert  Lugia  
 '''
 
 #To print all the Pokemon after deleting the first Pokemon
@@ -57,9 +52,5 @@ Lugia
 
 '''
 OUTPUT:
-Typhlosion
-Blaziken
-Swampert
-Lugia
-Mew
+Typhlosion  Blaziken  Swampert  Lugia  Mew 
 '''
