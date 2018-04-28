@@ -19,7 +19,7 @@ The Fibonacci Sequence:
 0 1 1 2 3 5 8 	
 
 OUTPUT 2:
-Enter the number of terms you want in the sequence:17
+Enter the number of terms you want in the sequence: 17
 The Fibonacci Sequence:
 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 
 '''
