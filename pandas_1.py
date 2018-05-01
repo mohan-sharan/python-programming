@@ -87,8 +87,3 @@ Process                      6,000 nm
 Area                           16 mm²
 Name: 4, dtype: object
 '''
-
-
-
-
-
