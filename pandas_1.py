@@ -55,7 +55,6 @@ file.shape
  
 #Out[3]: (117, 6)
 
-
 file.loc[:7, "Designer"]
 
 #the column label(for example: "Designer") and rows upto 7.
