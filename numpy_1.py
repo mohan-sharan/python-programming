@@ -33,7 +33,7 @@ OUTPUT:
 '''
 
 x = np.linalg.solve(A, b)
-
+#an alternative for calculating x
 print(x)
 
 '''
