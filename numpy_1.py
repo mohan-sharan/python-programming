@@ -2,7 +2,6 @@
 #A.x = b
 #x = A^(-1).b
 
-
 import numpy as np
 
 A = np.array([[4,5],[6,7]])
@@ -41,4 +40,3 @@ print(x)
 OUTPUT:
 [ 1.5, -1. ]
 ''' 
-
