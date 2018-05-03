@@ -22,6 +22,3 @@ plt.plot(x, y_sin)
 plt.title("Sine")
 
 plt.show()
-
-
-
