@@ -19,4 +19,3 @@ plt.ylabel("Top Speed (mph)")
 plt.title("The Top Speed Chart")
 
 plt.show()
-
