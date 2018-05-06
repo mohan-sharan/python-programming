@@ -3,10 +3,8 @@
 class Engine:
     numberCylinders = 16
 
-
 class Material(Engine):
     materialType = "Carbon fiber"
-
 
 class Bugatti(Material):
     def __init__(self):
