@@ -3,7 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-cars = ("Veyron", "Agera RS", "Aventador", "Ford GT", "R8","La Ferrari")
+cars = ("Veyron", "Agera RS", "Aventador", "Ford GT", "R8", "La Ferrari")
 
 carsAxis = np.arange(len(cars))
 
