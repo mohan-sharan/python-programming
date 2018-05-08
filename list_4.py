@@ -7,7 +7,7 @@ while i < len(myList):
 #OUTPUT: T O P  G E A R 	
 	
 #append() method
-myList.append("!")
+myList.append("R")
 print("\nUpdated List: ", myList)
 
 #OUTPUT: Updated List:  ['T', 'O', 'P', '', 'G', 'E', 'A', 'R', 'R']
