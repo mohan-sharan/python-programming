@@ -22,7 +22,6 @@ TypeError: 'tuple' object doesn't support item deletion
 Process finished with exit code 1
 '''
 
-
 myTuple2 = ("Smashing Pumpkins", "Foo Fighters", "Fleetwood Mac", "Matchbox Twenty", "Silversun Pickups")
 print("The length of the tuple is:", len(myTuple2))
 for x in myTuple2:
