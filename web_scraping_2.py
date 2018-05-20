@@ -276,6 +276,3 @@ OUTPUT:
 7       Wednesday                              Mostly Sunny  High: 63 °F
 8  WednesdayNight                             Partly Cloudy   Low: 54 °F
 '''
-
-
-
