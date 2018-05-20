@@ -56,4 +56,3 @@ OUTPUT:
  
 <li><p>Close-up look at vibrant tropical fish in a natural setting</p></li>
 '''
-
