@@ -23,6 +23,7 @@ myImage.thumbnail(size)
 myImage.show()
 
 myImage = myImage.convert("L")
+#prints out the image in gray scale format.
 
 myImage.show()
 
