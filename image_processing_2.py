@@ -24,3 +24,5 @@ myImage5.show()
 
 flipped_image = myImage.transpose(Image.FLIP_LEFT_RIGHT)
 flipped_image.show()
+
+#Check out the file image_processing_2.png for the output.
