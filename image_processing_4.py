@@ -19,3 +19,5 @@ mirror_image.show()
 
 flipped_image = ImageOps.flip(myImage)
 flipped_image.show()
+
+#Check out the file image_processing_4.png for the output.
