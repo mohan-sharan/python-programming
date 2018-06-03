@@ -23,3 +23,5 @@ myImage_copy.paste(myImage2, image_position)
 size_1 = 900, 900
 myImage_copy.thumbnail(size_1)
 myImage_copy.show()
+
+#Check out the file image_processing_5.png for the output.
