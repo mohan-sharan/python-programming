@@ -1,3 +1,6 @@
+#The Lizard-Spock Expansion: A Simple Python Program
+#From the hit TV show: The Big Bang Theory
+
 from random import randint
 
 myList = ["Rock", "Paper", "Scissors", "Lizard", "Spock"]
