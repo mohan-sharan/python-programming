@@ -22,3 +22,5 @@ d.text((10,10), "End Of The World Blast", font=fnt2, fill=(0,0,0))
 
 outputImage = Image.alpha_composite(myImage, myText)
 outputImage.show()
+
+#Check out the file image_processing_6.png for the output.
