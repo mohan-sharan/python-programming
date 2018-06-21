@@ -18,7 +18,7 @@ d = ImageDraw.Draw(myText)
 d.text((665,400), "Vegito", font=fnt1, fill=(255,255,255))
 #White Color: (R,G,B) - (255,255,255)
 d.text((10,10), "End Of The World Blast", font=fnt2, fill=(0,0,0))
-#Black color: (R,G,B) - (0,0,0)
+#Black Color: (R,G,B) - (0,0,0)
 
 outputImage = Image.alpha_composite(myImage, myText)
 outputImage.show()
