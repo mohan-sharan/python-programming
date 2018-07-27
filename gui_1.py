@@ -42,4 +42,4 @@ btn.pack(padx=0, pady=20)
 #draw the application, and start the 'application'
 window.mainloop()
 
-#check out the file gui_1.PNG for output
+#check out the file gui_1.PNG for output.
