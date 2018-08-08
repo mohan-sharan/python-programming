@@ -49,3 +49,11 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 - [classes_4.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_4.py)
 - [classes_5.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_5.py)
 - [classes_6.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_6.py)
+
+## **Numpy**
+- [numpy_1.py](https://github.com/mohan-sharan/python-programming/blob/master/numpy_1.py)
+- [numpy_2.py](https://github.com/mohan-sharan/python-programming/blob/master/numpy_2.py)
+
+## **Pandas**
+- [pandas_1.py](https://github.com/mohan-sharan/python-programming/blob/master/pandas_1.py)
+- [pandas_2.py](https://github.com/mohan-sharan/python-programming/blob/master/pandas_2.py)
