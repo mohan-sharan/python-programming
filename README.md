@@ -71,3 +71,7 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 - [image_processing_4.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_4.py) -> [image_processing_4.PNG](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_4.PNG)
 - [image_processing_5.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_5.py) -> [image_processing_5.png](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_5.png)
 - [image_processing_6.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_6.py) -> [image_processing_6.PNG](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_6.PNG)
+
+## **GUI**
+- [gui_1.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.py) -> [gui_1.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.PNG)
+- [gui_2.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.py) -> [gui_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.PNG)
