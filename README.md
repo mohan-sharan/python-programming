@@ -36,3 +36,8 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 
 ## **Miscellaneous**
 - Fibonacci Sequence -> [fibonacci_1.py](https://github.com/mohan-sharan/python-programming/blob/master/fibonacci_1.py)
+- Factorial -> [factorial_1.py](https://github.com/mohan-sharan/python-programming/blob/master/factorial_1.py)
+- Handling of Exceptions -> [division_by_zero.py](https://github.com/mohan-sharan/python-programming/blob/master/division_by_zero.py)
+- Temperature Converter -> [temp_converter_1.py](https://github.com/mohan-sharan/python-programming/blob/master/temp_converter_1.py)
+- Sorting a Car by its Top Speed -> [rankCars.py](https://github.com/mohan-sharan/python-programming/blob/master/rankCars.py)
+- The Lizard-Spock Expansion -> [rock_paper_scissors_lizard_spock.py](https://github.com/mohan-sharan/python-programming/blob/master/rock_paper_scissors_lizard_spock.py)
