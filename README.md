@@ -33,3 +33,6 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 - [loops_3.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_3.py)
 - [loops_4.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_4.py)
 - [loops_5.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_5.py)
+
+## **Miscellaneous**
+- Fibonacci Sequence -> [fibonacci_1.py](https://github.com/mohan-sharan/python-programming/blob/master/fibonacci_1.py)
