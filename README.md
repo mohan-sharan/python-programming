@@ -22,3 +22,14 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 ## **Tuple**
 - [tuples_1.py](https://github.com/mohan-sharan/python-programming/blob/master/tuples_1.py)
 - [tuples_2.py](https://github.com/mohan-sharan/python-programming/blob/master/tuples_2.py)
+
+## **String**
+- [strings_1.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_1.py)
+- [strings_2.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_2.py)
+
+## **Loop**
+- [loops_1.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_1.py)
+- [loops_2.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_2.py)
+- [loops_3.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_3.py)
+- [loops_4.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_4.py)
+- [loops_5.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_5.py)
