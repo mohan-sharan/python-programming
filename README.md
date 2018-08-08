@@ -57,3 +57,6 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 ## **Pandas**
 - [pandas_1.py](https://github.com/mohan-sharan/python-programming/blob/master/pandas_1.py)
 - [pandas_2.py](https://github.com/mohan-sharan/python-programming/blob/master/pandas_2.py)
+
+## **Matplotlib**
+- [matplotlib_1.py](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_1.py) -> [matplotlib_1.png](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_1.png)
