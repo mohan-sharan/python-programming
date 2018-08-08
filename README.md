@@ -1,12 +1,8 @@
 # **_PYTHON - BASICS_**
  
-**PyCharm** - An integrated development environment (IDE) used in computer programming, specifically for the Python language. 
+**PyCharm** - An integrated development environment (IDE) used in computer programming, specifically for the Python language. Link: https://www.jetbrains.com/pycharm/
 
-Link: https://www.jetbrains.com/pycharm/
-
-**IPython** - A powerful interactive Python shell. 
-
-Link: https://ipython.readthedocs.io/en/stable/index.html
+**IPython** - A powerful interactive Python shell. Link: https://ipython.readthedocs.io/en/stable/index.html
 
 ## **List**
 - [list1.py](https://github.com/mohan-sharan/python-programming/blob/master/list_1.py)
