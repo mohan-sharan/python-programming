@@ -4,6 +4,6 @@ PyCharm - An integrated development environment (IDE) used in computer programmi
 
 Link: https://www.jetbrains.com/pycharm/
 
-IPython - A powerful interactive Python shell 
+IPython - A powerful interactive Python shell. 
 
 Link: https://ipython.readthedocs.io/en/stable/index.html
