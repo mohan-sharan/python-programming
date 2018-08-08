@@ -75,3 +75,8 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 ## **GUI**
 - [gui_1.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.py) -> [gui_1.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.PNG)
 - [gui_2.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.py) -> [gui_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.PNG)
+
+## **Web Scraping**
+- [Quick Guide](https://github.com/mohan-sharan/python-programming/blob/master/Web%20Scraping%20in%20Python%20-%20Quick%20Guide.pdf)
+- [web_scraping_1.py](https://github.com/mohan-sharan/python-programming/blob/master/web_scraping_1.py)
+- [web_scraping_2.py](https://github.com/mohan-sharan/python-programming/blob/master/web_scraping_2.py)
