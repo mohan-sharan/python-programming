@@ -14,3 +14,7 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 - [list3.py](https://github.com/mohan-sharan/python-programming/blob/master/list_3.py)
 - [list4.py](https://github.com/mohan-sharan/python-programming/blob/master/list_4.py)
 - [list5.py](https://github.com/mohan-sharan/python-programming/blob/master/list_5.py)
+
+## **Dictionary**
+- [dictionary_1.py](https://github.com/mohan-sharan/python-programming/blob/master/dictionary_1.py)
+- [dictionary_2.py](https://github.com/mohan-sharan/python-programming/blob/master/dictionary_2.py)
