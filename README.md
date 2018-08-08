@@ -41,3 +41,11 @@ Link: https://ipython.readthedocs.io/en/stable/index.html
 - Temperature Converter -> [temp_converter_1.py](https://github.com/mohan-sharan/python-programming/blob/master/temp_converter_1.py)
 - Sorting a Car by its Top Speed -> [rankCars.py](https://github.com/mohan-sharan/python-programming/blob/master/rankCars.py)
 - The Lizard-Spock Expansion -> [rock_paper_scissors_lizard_spock.py](https://github.com/mohan-sharan/python-programming/blob/master/rock_paper_scissors_lizard_spock.py)
+
+## **Class**
+- [classes_1.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_1.py)
+- [classes_2.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_2.py)
+- [classes_3.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_3.py)
+- [classes_4.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_4.py)
+- [classes_5.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_5.py)
+- [classes_6.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_6.py)
