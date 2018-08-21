@@ -23,6 +23,7 @@
 - [strings_1.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_1.py)
 - [strings_2.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_2.py)
 - [strings_3.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_3.py)
+- [split.py](https://github.com/mohan-sharan/python-programming/blob/master/split.py)
 
 ## **Loop**
 - [loops_1.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_1.py)
