@@ -39,6 +39,7 @@
 - Temperature Converter -> [temp_converter_1.py](https://github.com/mohan-sharan/python-programming/blob/master/temp_converter_1.py)
 - Sorting a Car by its Top Speed -> [rankCars.py](https://github.com/mohan-sharan/python-programming/blob/master/rankCars.py)
 - The Lizard-Spock Expansion -> [rock_paper_scissors_lizard_spock.py](https://github.com/mohan-sharan/python-programming/blob/master/rock_paper_scissors_lizard_spock.py)
+- The .join() method -> [join.py](https://github.com/mohan-sharan/python-programming/blob/master/join.py)
 
 ## **Class**
 - [classes_1.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_1.py)
