@@ -41,6 +41,7 @@
 - The Lizard-Spock Expansion -> [rock_paper_scissors_lizard_spock.py](https://github.com/mohan-sharan/python-programming/blob/master/rock_paper_scissors_lizard_spock.py)
 - The .join() method -> [join.py](https://github.com/mohan-sharan/python-programming/blob/master/join.py)
 - Printing Different Patterns -> [printing_patterns.py](https://github.com/mohan-sharan/python-programming/blob/master/printing_patterns.py)
+- Smart Watch Analysis -> [smart_watch_comp.py](https://github.com/mohan-sharan/python-programming/blob/master/smart_watch_comp.py) -> [smart_watch_comp.PNG](https://github.com/mohan-sharan/python-programming/blob/master/smart_watch_comp.PNG)
 
 ## **Class**
 - [classes_1.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_1.py)
