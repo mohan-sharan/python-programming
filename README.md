@@ -42,6 +42,7 @@
 - The .join() method -> [join.py](https://github.com/mohan-sharan/python-programming/blob/master/join.py)
 - Printing Different Patterns -> [printing_patterns.py](https://github.com/mohan-sharan/python-programming/blob/master/printing_patterns.py)
 - Smart Watch Analysis -> [smart_watch_comp.py](https://github.com/mohan-sharan/python-programming/blob/master/smart_watch_comp.py) -> [smart_watch_comp.PNG](https://github.com/mohan-sharan/python-programming/blob/master/smart_watch_comp.PNG)
+- Word Cloud Generator -> [word_cloud.py](https://github.com/mohan-sharan/python-programming/blob/master/Word%20Cloud/word_cloud.py)
 
 ## **Class**
 - [classes_1.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_1.py)
