@@ -1,1 +1,1 @@
-Word Cloud Generator
+**_Word Cloud Generator_**
