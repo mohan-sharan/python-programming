@@ -14,7 +14,6 @@ pokemon_attack = []
 pokemon_defense = []
 pokemon_speed = []
 
-
 names = soup.find_all('td', class_="cell-name")
 
 for x in names:
@@ -181,7 +180,7 @@ def poke_statistics(finalDataFrame, COLUMNS):
 
 COLUMNS = ['ATTACK', 'HP', 'DEFENSE', 'SPEED']
 
-print(poke_statistics(finalDataFrame, COLUMN))
+print(poke_statistics(finalDataFrame, COLUMNS))
 '''
 Chansey --> (MIN) ATTACK = 5
 MewtwoMega Mewtwo X --> (MAX) ATTACK = 190
@@ -192,4 +191,3 @@ SteelixMega Steelix --> (MAX) DEFENSE = 230
 Chansey --> (MIN) SPEED = 5
 SteelixMega Steelix --> (MAX) SPEED = 230
 '''
-
