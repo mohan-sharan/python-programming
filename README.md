@@ -26,11 +26,11 @@
 - [split.py](https://github.com/mohan-sharan/python-programming/blob/master/split.py)
 
 ## **Loop**
-- [loops_1.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_1.py)
-- [loops_2.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_2.py)
-- [loops_3.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_3.py)
-- [loops_4.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_4.py)
-- [loops_5.py](https://github.com/mohan-sharan/python-programming/blob/master/loops_5.py)
+- [loops_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Loop/loops_1.py)
+- [loops_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Loop/loops_2.py)
+- [loops_3.py](https://github.com/mohan-sharan/python-programming/blob/master/Loop/loops_3.py)
+- [loops_4.py](https://github.com/mohan-sharan/python-programming/blob/master/Loop/loops_4.py)
+- [loops_5.py](https://github.com/mohan-sharan/python-programming/blob/master/Loop/loops_5.py)
 
 ## **Miscellaneous**
 - Fibonacci Sequence -> [fibonacci_1.py](https://github.com/mohan-sharan/python-programming/blob/master/fibonacci_1.py)
