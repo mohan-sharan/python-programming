@@ -67,12 +67,12 @@
 - [matplotlib_4.py](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_4.py) -> [matplotlib_4.png](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_4.png)
 
 ## **Image Processing**
-- [image_processing_1.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_1.py) -> [image_processing_1.png](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_1.png)
-- [image_processing_2.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_2.py) -> [image_processing_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_2.PNG)
-- [image_processing_3.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_3.py) -> [image_processing_3.png](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_3.png)
-- [image_processing_4.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_4.py) -> [image_processing_4.PNG](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_4.PNG)
-- [image_processing_5.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_5.py) -> [image_processing_5.png](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_5.png)
-- [image_processing_6.py](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_6.py) -> [image_processing_6.PNG](https://github.com/mohan-sharan/python-programming/blob/master/image_processing_6.PNG)
+- [image_processing_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_1.py) -> [image_processing_1.png](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_1.png)
+- [image_processing_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_2.py) -> [image_processing_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_2.PNG)
+- [image_processing_3.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_3.py) -> [image_processing_3.png](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_3.png)
+- [image_processing_4.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_4.py) -> [image_processing_4.PNG](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_4.PNG)
+- [image_processing_5.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_5.py) -> [image_processing_5.png](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_5.png)
+- [image_processing_6.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_6.py) -> [image_processing_6.PNG](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_6.PNG)
 
 ## **GUI**
 - [gui_1.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.py) -> [gui_1.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.PNG)
