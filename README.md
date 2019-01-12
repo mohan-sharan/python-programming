@@ -79,9 +79,9 @@
 - [gui_2.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.py) -> [gui_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.PNG)
 
 ## **Web Scraping**
-- [Quick Guide](https://github.com/mohan-sharan/python-programming/blob/master/Web%20Scraping%20in%20Python%20-%20Quick%20Guide.pdf)
-- [web_scraping_1.py](https://github.com/mohan-sharan/python-programming/blob/master/web_scraping_1.py)
-- [web_scraping_2.py](https://github.com/mohan-sharan/python-programming/blob/master/web_scraping_2.py)
+- [Quick Guide](https://github.com/mohan-sharan/python-programming/blob/master/Web%20Scraping/Web%20Scraping%20in%20Python%20-%20Quick%20Guide.pdf)
+- [web_scraping_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Web%20Scraping/web_scraping_1.py)
+- [web_scraping_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Web%20Scraping/web_scraping_2.py)
 
 ## **YouTube**
 - [Search By Keyword](https://github.com/mohan-sharan/python-programming/tree/master/YouTube-Data-API-v3)
