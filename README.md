@@ -5,11 +5,11 @@
 **IPython** - A powerful interactive Python shell. Link: https://ipython.readthedocs.io/en/stable/index.html
 
 ## **List**
-- [list1.py](https://github.com/mohan-sharan/python-programming/blob/master/list_1.py)
-- [list2.py](https://github.com/mohan-sharan/python-programming/blob/master/list_2.py)
-- [list3.py](https://github.com/mohan-sharan/python-programming/blob/master/list_3.py)
-- [list4.py](https://github.com/mohan-sharan/python-programming/blob/master/list_4.py)
-- [list5.py](https://github.com/mohan-sharan/python-programming/blob/master/list_5.py)
+- [list1.py](https://github.com/mohan-sharan/python-programming/blob/master/List/list_1.py)
+- [list2.py](https://github.com/mohan-sharan/python-programming/blob/master/List/list_2.py)
+- [list3.py](https://github.com/mohan-sharan/python-programming/blob/master/List/list_3.py)
+- [list4.py](https://github.com/mohan-sharan/python-programming/blob/master/List/list_4.py)
+- [list5.py](https://github.com/mohan-sharan/python-programming/blob/master/List/list_5.py)
 
 ## **Dictionary**
 - [dictionary_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Dictionary/dictionary_1.py)
@@ -20,10 +20,10 @@
 - [tuples_2.py](https://github.com/mohan-sharan/python-programming/blob/master/tuples_2.py)
 
 ## **String**
-- [strings_1.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_1.py)
-- [strings_2.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_2.py)
-- [strings_3.py](https://github.com/mohan-sharan/python-programming/blob/master/strings_3.py)
-- [split.py](https://github.com/mohan-sharan/python-programming/blob/master/split.py)
+- [strings_1.py](https://github.com/mohan-sharan/python-programming/blob/master/String/strings_1.py)
+- [strings_2.py](https://github.com/mohan-sharan/python-programming/blob/master/String/strings_2.py)
+- [strings_3.py](https://github.com/mohan-sharan/python-programming/blob/master/String/strings_3.py)
+- [split.py](https://github.com/mohan-sharan/python-programming/blob/master/String/split.py)
 
 ## **Loop**
 - [loops_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Loop/loops_1.py)
