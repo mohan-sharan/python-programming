@@ -12,8 +12,8 @@
 - [list5.py](https://github.com/mohan-sharan/python-programming/blob/master/list_5.py)
 
 ## **Dictionary**
-- [dictionary_1.py](https://github.com/mohan-sharan/python-programming/blob/master/dictionary_1.py)
-- [dictionary_2.py](https://github.com/mohan-sharan/python-programming/blob/master/dictionary_2.py)
+- [dictionary_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Dictionary/dictionary_1.py)
+- [dictionary_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Dictionary/dictionary_2.py)
 
 ## **Tuple**
 - [tuples_1.py](https://github.com/mohan-sharan/python-programming/blob/master/tuples_1.py)
