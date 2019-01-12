@@ -16,8 +16,8 @@
 - [dictionary_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Dictionary/dictionary_2.py)
 
 ## **Tuple**
-- [tuples_1.py](https://github.com/mohan-sharan/python-programming/blob/master/tuples_1.py)
-- [tuples_2.py](https://github.com/mohan-sharan/python-programming/blob/master/tuples_2.py)
+- [tuples_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Tuple/tuples_1.py)
+- [tuples_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Tuple/tuples_2.py)
 
 ## **String**
 - [strings_1.py](https://github.com/mohan-sharan/python-programming/blob/master/String/strings_1.py)
