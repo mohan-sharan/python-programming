@@ -84,7 +84,6 @@ print(pokemon_defense[0:5]) #DEFENSE
 for i in range(6,len(other_data),7):
     pokemon_speed.append(other_data[i])
         
-
 print(pokemon_speed[0:5]) #SPEED
 '''
 [u'45', u'60', u'80', u'80', u'65']
@@ -94,7 +93,6 @@ pokemon_hp = [int(i) for i in pokemon_hp]
 pokemon_defense = [int(i) for i in pokemon_defense]
 pokemon_attack = [int(i) for i in pokemon_attack]
 pokemon_speed = [int(i) for i in pokemon_speed]
-
 
 final_data = {"#": pokemon_no, 
 	      "NAME": pokemon_names, 
