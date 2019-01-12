@@ -61,10 +61,10 @@
 - [pandas_2.py](https://github.com/mohan-sharan/python-programming/blob/master/pandas_2.py)
 
 ## **Matplotlib**
-- [matplotlib_1.py](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_1.py) -> [matplotlib_1.png](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_1.png)
-- [matplotlib_2.py](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_2.py) -> [matplotlib_2.png](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_2.png)
-- [matplotlib_3.py](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_3.py) -> [matplotlib_3.png](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_3.png)
-- [matplotlib_4.py](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_4.py) -> [matplotlib_4.png](https://github.com/mohan-sharan/python-programming/blob/master/matplotlib_4.png)
+- [matplotlib_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_1.py) -> [matplotlib_1.png](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_1.png)
+- [matplotlib_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_2.py) -> [matplotlib_2.png](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_2.png)
+- [matplotlib_3.py](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_3.py) -> [matplotlib_3.png](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_3.png)
+- [matplotlib_4.py](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_4.py) -> [matplotlib_4.png](https://github.com/mohan-sharan/python-programming/blob/master/Matplotlib/matplotlib_4.png)
 
 ## **Image Processing**
 - [image_processing_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_1.py) -> [image_processing_1.png](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_1.png)
