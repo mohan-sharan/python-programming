@@ -75,8 +75,8 @@
 - [image_processing_6.py](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_6.py) -> [image_processing_6.PNG](https://github.com/mohan-sharan/python-programming/blob/master/Image%20Processing/image_processing_6.PNG)
 
 ## **GUI**
-- [gui_1.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.py) -> [gui_1.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_1.PNG)
-- [gui_2.py](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.py) -> [gui_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/gui_2.PNG)
+- [gui_1.py](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_1.py) -> [gui_1.PNG](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_1.PNG)
+- [gui_2.py](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_2.py) -> [gui_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_2.PNG)
 
 ## **Web Scraping**
 - [Quick Guide](https://github.com/mohan-sharan/python-programming/blob/master/Web%20Scraping/Web%20Scraping%20in%20Python%20-%20Quick%20Guide.pdf)
