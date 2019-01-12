@@ -33,15 +33,15 @@
 - [loops_5.py](https://github.com/mohan-sharan/python-programming/blob/master/Loop/loops_5.py)
 
 ## **Miscellaneous**
-- Fibonacci Sequence -> [fibonacci_1.py](https://github.com/mohan-sharan/python-programming/blob/master/fibonacci_1.py)
-- Factorial -> [factorial_1.py](https://github.com/mohan-sharan/python-programming/blob/master/factorial_1.py)
-- Handling of Exceptions -> [division_by_zero.py](https://github.com/mohan-sharan/python-programming/blob/master/division_by_zero.py)
-- Temperature Converter -> [temp_converter_1.py](https://github.com/mohan-sharan/python-programming/blob/master/temp_converter_1.py)
-- Sorting a Car by its Top Speed -> [rankCars.py](https://github.com/mohan-sharan/python-programming/blob/master/rankCars.py)
-- The Lizard-Spock Expansion -> [rock_paper_scissors_lizard_spock.py](https://github.com/mohan-sharan/python-programming/blob/master/rock_paper_scissors_lizard_spock.py)
-- The .join() method -> [join.py](https://github.com/mohan-sharan/python-programming/blob/master/join.py)
-- Printing Different Patterns -> [printing_patterns.py](https://github.com/mohan-sharan/python-programming/blob/master/printing_patterns.py)
-- Smart Watch Analysis -> [smart_watch_comp.py](https://github.com/mohan-sharan/python-programming/blob/master/smart_watch_comp.py) -> [smart_watch_comp.PNG](https://github.com/mohan-sharan/python-programming/blob/master/smart_watch_comp.PNG)
+- Fibonacci Sequence -> [fibonacci_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/fibonacci_1.py)
+- Factorial -> [factorial_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/factorial_1.py)
+- Handling of Exceptions -> [division_by_zero.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/division_by_zero.py)
+- Temperature Converter -> [temp_converter_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/temp_converter_1.py)
+- Sorting a Car by its Top Speed -> [rankCars.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/rankCars.py)
+- The Lizard-Spock Expansion -> [rock_paper_scissors_lizard_spock.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/rock_paper_scissors_lizard_spock.py)
+- The .join() method -> [join.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/join.py)
+- Printing Different Patterns -> [printing_patterns.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/printing_patterns.py)
+- Smart Watch Analysis -> [smart_watch_comp.py](https://github.com/mohan-sharan/python-programming/blob/master/Misc/smart_watch_comp.py) -> [smart_watch_comp.PNG](https://github.com/mohan-sharan/python-programming/blob/master/Misc/smart_watch_comp.PNG)
 - Word Cloud Generator -> [word_cloud.py](https://github.com/mohan-sharan/python-programming/blob/master/Word%20Cloud/word_cloud.py)
 
 ## **Class**
