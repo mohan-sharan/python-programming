@@ -45,12 +45,12 @@
 - Word Cloud Generator -> [word_cloud.py](https://github.com/mohan-sharan/python-programming/blob/master/Word%20Cloud/word_cloud.py)
 
 ## **Class**
-- [classes_1.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_1.py)
-- [classes_2.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_2.py)
-- [classes_3.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_3.py)
-- [classes_4.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_4.py)
-- [classes_5.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_5.py)
-- [classes_6.py](https://github.com/mohan-sharan/python-programming/blob/master/classes_6.py)
+- [classes_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Class/classes_1.py)
+- [classes_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Class/classes_2.py)
+- [classes_3.py](https://github.com/mohan-sharan/python-programming/blob/master/Class/classes_3.py)
+- [classes_4.py](https://github.com/mohan-sharan/python-programming/blob/master/Class/classes_4.py)
+- [classes_5.py](https://github.com/mohan-sharan/python-programming/blob/master/Class/classes_5.py)
+- [classes_6.py](https://github.com/mohan-sharan/python-programming/blob/master/Class/classes_6.py)
 
 ## **Numpy**
 - [numpy_1.py](https://github.com/mohan-sharan/python-programming/blob/master/numpy_1.py)
