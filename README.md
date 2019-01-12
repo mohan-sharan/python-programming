@@ -53,8 +53,8 @@
 - [classes_6.py](https://github.com/mohan-sharan/python-programming/blob/master/Class/classes_6.py)
 
 ## **Numpy**
-- [numpy_1.py](https://github.com/mohan-sharan/python-programming/blob/master/numpy_1.py)
-- [numpy_2.py](https://github.com/mohan-sharan/python-programming/blob/master/numpy_2.py)
+- [numpy_1.py](https://github.com/mohan-sharan/python-programming/blob/master/Numpy/numpy_1.py)
+- [numpy_2.py](https://github.com/mohan-sharan/python-programming/blob/master/Numpy/numpy_2.py)
 
 ## **Pandas**
 - [pandas_1.py](https://github.com/mohan-sharan/python-programming/blob/master/pandas_1.py)
