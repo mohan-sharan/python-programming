@@ -77,7 +77,7 @@ l6.grid(row=6, column=0, pady=5)
 l7.grid(row=7, column=0, pady=5)
 
 #Image
-imagePath = "/home/sharan-mohan/Desktop/POKEBALL.PNG"
+imagePath = "/home/user/Desktop/POKEBALL.PNG"
 i = Image.open(imagePath)
 pokemon_image = ImageTk.PhotoImage(i)
 i1 = Label(window, image=pokemon_image)
