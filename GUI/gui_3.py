@@ -79,8 +79,8 @@ l7.grid(row=7, column=0, pady=5)
 #Image
 imagePath = "/home/user/Desktop/POKEBALL.PNG"
 i = Image.open(imagePath)
-pokemon_image = ImageTk.PhotoImage(i)
-i1 = Label(window, image=pokemon_image)
+pokedex_image = ImageTk.PhotoImage(i)
+i1 = Label(window, image=pokedex_image)
 i1.grid(row=0, column=0, padx=10, pady=10)
 
 #Text-Entries
