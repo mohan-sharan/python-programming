@@ -77,6 +77,7 @@
 ## **GUI**
 - [gui_1.py](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_1.py) -> [gui_1.PNG](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_1.PNG)
 - [gui_2.py](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_2.py) -> [gui_2.PNG](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_2.PNG)
+- [gui_3.py](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_3.py) -> [gui_3.png](https://github.com/mohan-sharan/python-programming/blob/master/GUI/gui_3.png)
 
 ## **Web Scraping**
 - [Quick Guide](https://github.com/mohan-sharan/python-programming/blob/master/Web%20Scraping/Web%20Scraping%20in%20Python%20-%20Quick%20Guide.pdf)
