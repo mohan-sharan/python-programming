@@ -33,6 +33,8 @@ types = soup.find_all('td', class_="cell-icon")
 for x in types:
     pokemon_types.append(x.get_text())
 
+pokemon_type = [x.encode('utf-8') for x in pokemon_types]    
+
 other_data = []
 for x in soup.find_all(attrs={'class': 'cell-num'}):
     other_data.append(x.get_text())
@@ -109,7 +111,7 @@ def insert_data():
         e4.insert(END, pokemon_attack[data])
         e5.insert(END, pokemon_defense[data])
         e6.insert(END, pokemon_speed[data])
-        e7.insert(END, pokemon_types[data])
+        e7.insert(END, pokemon_type[data])
     except IndexError:
         print("Number should be between: 0-925")
     except ValueError:
