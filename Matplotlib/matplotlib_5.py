@@ -1,5 +1,5 @@
 #Visualization - Pie Chart
-#DART (Dallas Area Rapid Transit ) 
+#DART (Dallas Area Rapid Transit) 
 #Summary of Operating Expenses (2013-2017)
 
 import matplotlib.pyplot as plt
